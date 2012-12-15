@@ -1,14 +1,13 @@
-Creators:    Gary Polhill
-Submitter:   Edoardo Pignotti
-Organization:	James Hutton Institute Aberdeen AND University of Aberdeen
-Date created:	13/12/2012
-Date submitted:	15/12/2012
-Tool used:	OBIAMA
-Data license:	License*
-
-Provenance representation model: PROV-O
+Creators:    Gary Polhill <br>
+Submitter:   Edoardo Pignotti <br>
+Organization:	James Hutton Institute Aberdeen AND University of Aberdeen <br>
+Date created:	13/12/2012 <br>
+Date submitted:	15/12/2012 <br>
+Tool used:	OBIAMA <br>
+<br>
+Provenance representation model: PROV-O <br>
 Domain of study: Social Simulation
-Project:  OBIAMA
-
-License 
-cc-by-sa: Creative Commons Attribution-Share Alike 3.0 Unported License, http://creativecommons.org/licenses/by-sa/3.0/
+Project:  OBIAMA <br>
+<br>
+License  <br>
+cc-by-sa: Creative Commons Attribution-Share Alike 3.0 Unported License, http://creativecommons.org/licenses/by-sa/3.0/ <br>
